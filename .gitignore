@@ -1,0 +1,6 @@
+# Ignore generated files.
+.vagrant
+
+# Ignore Finder metadata files on Mac
+.DS_Store
+
